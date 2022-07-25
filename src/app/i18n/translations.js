@@ -95,7 +95,7 @@ export const translations = {
 	"repositoryAndDocumentation": "Dépôt et documentation",
 	"softwareDetails": "Détails sur le logiciel",
 	"legalAndReuse": "Informations légales à propos de la réutilisabilité",
-	"descriptionAndFeatures": "Déscription et fonctionnalités",
+	"descriptionAndFeatures": "Description et fonctionnalités",
 	"logoAndScreenshots": "Logo et capture d'écran",
 	"purposeAndAudience": "Intérêt et audience",
 	"maintenance": "Maintenance",
